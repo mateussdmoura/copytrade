@@ -1,0 +1,16 @@
+{
+  "name": "algo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.3",
+    "vitest": "^0.29.8"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "scripts": {
+    "test": "vitest -w"
+  }
+}
